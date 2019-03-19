@@ -8,6 +8,3 @@ class Dog
 
   end
   end
-end
-end
-end
