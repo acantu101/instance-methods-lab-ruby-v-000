@@ -5,11 +5,9 @@ class Dog
   def sit
     puts "The Dog is sitting"
   def method_name
-    
+
   end
   end
 end
 end
 end
-
-
